@@ -8,3 +8,5 @@ tr replaces colons (:) with newlines, and wc -l counts the resulting lines.
 The set command prints everything that’s been defined in the current session — not just exported variables.
 6-create_local_variable Creates a new local variable called BEST with the value "School".
 This variable exists only within the current shell session or subshell where it’s defined
+7-create_global_variable This script creates a global environment variable named BEST with the value "School".
+Global variables are available to the shell and all child processes
