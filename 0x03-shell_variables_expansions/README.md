@@ -12,3 +12,4 @@ This variable exists only within the current shell session or subshell where itâ
 Global variables are available to the shell and all child processes
 8-true_knowledge This script prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE.
 9-divide_and_rule This script prints the result of dividing the value of the environment variable POWER by the value of the environment variable DIVIDE.
+10-love_exponent_breath Displays the result of BREATH raised to the power of LOVE, followed by a newline.
