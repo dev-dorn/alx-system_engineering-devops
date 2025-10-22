@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "$(( $WATER + $STIR ))" | tr '0123456789' 'bestchol'
+
