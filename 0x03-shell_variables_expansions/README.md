@@ -3,3 +3,4 @@
 2-path Ensures that any executables placed in /action can be run from anywhere on the system without typing their full path, while keeping /action as the final lookup directory in the PATH.
 3-paths Counts and displays the number of directories listed in the current PATH environment variable.
 tr replaces colons (:) with newlines, and wc -l counts the resulting lines.
+4-global_variables Displays a list of all environment variables and their values in the current shell session using the printenv command.
