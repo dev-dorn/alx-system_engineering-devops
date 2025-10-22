@@ -11,3 +11,4 @@ This variable exists only within the current shell session or subshell where itâ
 7-create_global_variable This script creates a global environment variable named BEST with the value "School".
 Global variables are available to the shell and all child processes
 8-true_knowledge This script prints the result of adding 128 to the value stored in the environment variable TRUEKNOWLEDGE.
+9-divide_and_rule This script prints the result of dividing the value of the environment variable POWER by the value of the environment variable DIVIDE.
